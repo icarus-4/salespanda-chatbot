@@ -10,7 +10,7 @@ frozenlist==1.4.1
 idna==3.6
 multidict==6.0.4
 openai==0.28.0
-pyscopg2-binary
+pyscopg2
 python-decouple
 requests
 sqlparse
